@@ -1,0 +1,1 @@
+final_s_logo_vector.svg
